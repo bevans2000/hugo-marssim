@@ -1,10 +1,12 @@
 ---
 title: Part
+description: Parts used for repairs and processes
 ---
-Parts used for repairs and processes
 
-Change via XML
 
+
+
+{{< alert color="success" >}}These can be changed via the XML file _parts.xml_. See [XML Files](/docs/guide/xml-files/){{< /alert >}}
 
 
 Grouped by Good Type.
@@ -204,5 +206,5 @@ Grouped by Good Type.
 - [Wheel small](../part/wheel-small)
 
 
-Version: pre-3.9.0 Generated on: 2024-12-28T13:30:57.2428854
+Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
 {.small }

@@ -195,14 +195,14 @@ Phase 2 base for JAXA
 
 | Name | Quantity |
 |:-----|-----:|
-|[thermal bottle](/docs/definitions/null/thermal-bottle)|12|
-|[barrel](/docs/definitions/null/barrel)|40|
-|[wheelbarrow](/docs/definitions/null/wheelbarrow)|12|
-|[EVA Suit](/docs/definitions/null/eva-suit)|16|
-|[specimen box](/docs/definitions/null/specimen-box)|40|
-|[bag](/docs/definitions/null/bag)|40|
-|[large bag](/docs/definitions/null/large-bag)|40|
-|[gas canister](/docs/definitions/null/gas-canister)|40|
+|thermal bottle|12|
+|barrel|40|
+|wheelbarrow|12|
+|EVA Suit|16|
+|specimen box|40|
+|bag|40|
+|large bag|40|
+|gas canister|40|
 
 ## Vehicles
 
@@ -221,5 +221,5 @@ Phase 2 base for JAXA
 |BiMonthly Delivery|6|[Standard Resupply 1](/docs/definitions/manifest/standard-resupply-1)|60|
 |Annual Delivery|668|[Resupply for Phase 2](/docs/definitions/manifest/resupply-for-phase-2)|-1|
     
-Version: pre-3.9.0 Generated on: 2024-12-28T13:30:57.2428854
+Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
 {.small }

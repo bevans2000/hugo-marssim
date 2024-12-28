@@ -32,6 +32,6 @@ Derive fish oil from fish meats. Press and refine it&#10;&#9;&#9;&#9;for use
 |[fish oil](/docs/definitions/resource/fish-oil)|0.5 kg|
 
 
-Version: pre-3.9.0 Generated on: 2024-12-28T13:30:57.2428854
+Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
 {.small }
 

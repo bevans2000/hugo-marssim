@@ -269,14 +269,14 @@ Base With Central Hub
 
 | Name | Quantity |
 |:-----|-----:|
-|[thermal bottle](/docs/definitions/null/thermal-bottle)|48|
-|[barrel](/docs/definitions/null/barrel)|240|
-|[wheelbarrow](/docs/definitions/null/wheelbarrow)|48|
-|[EVA Suit](/docs/definitions/null/eva-suit)|60|
-|[specimen box](/docs/definitions/null/specimen-box)|240|
-|[bag](/docs/definitions/null/bag)|240|
-|[large bag](/docs/definitions/null/large-bag)|240|
-|[gas canister](/docs/definitions/null/gas-canister)|240|
+|thermal bottle|48|
+|barrel|240|
+|wheelbarrow|48|
+|EVA Suit|60|
+|specimen box|240|
+|bag|240|
+|large bag|240|
+|gas canister|240|
 
 ## Vehicles
 
@@ -305,5 +305,5 @@ Base With Central Hub
 |--------:|:------|:-----|-------:|
 |Food Delivery|30|[Food Resupply 1](/docs/definitions/manifest/food-resupply-1)|62|
     
-Version: pre-3.9.0 Generated on: 2024-12-28T13:30:57.2428854
+Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
 {.small }

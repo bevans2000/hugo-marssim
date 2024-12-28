@@ -35,5 +35,5 @@ The Light Utility Vehicle (LUV) is a small, unpressurized, one crew utility vehi
 |[Methanol](/docs/definitions/resource/methanol)|10.0|
 |[Oxygen](/docs/definitions/resource/oxygen)|15.0|
 
-Version: pre-3.9.0 Generated on: 2024-12-28T13:30:57.2428854
+Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
 {.small }

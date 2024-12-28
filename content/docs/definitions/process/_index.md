@@ -1,10 +1,12 @@
 ---
 title: Manufacturing Process
+description: Manufacturing Processes that consume resoruce to create new resources.
 ---
-Manufacturing Processes that consume resoruce to create new resources.
 
-Change via XML
 
+
+
+{{< alert color="success" >}}These can be changed via the XML file _manufacturing.xml_. See [XML Files](/docs/guide/xml-files/){{< /alert >}}
 
 
 Grouped by Name.
@@ -295,5 +297,5 @@ Grouped by Name.
 - [Weave fiberglass cloth](../process/weave-fiberglass-cloth)
 
 
-Version: pre-3.9.0 Generated on: 2024-12-28T13:30:57.2428854
+Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
 {.small }

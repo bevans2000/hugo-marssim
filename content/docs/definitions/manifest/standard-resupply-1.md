@@ -102,16 +102,16 @@ hide_summary: true
 
 | Name | Quantity |
 |:-----|-----:|
-|[thermal bottle](/docs/definitions/null/thermal-bottle)|8|
-|[barrel](/docs/definitions/null/barrel)|24|
-|[wheelbarrow](/docs/definitions/null/wheelbarrow)|8|
-|[specimen box](/docs/definitions/null/specimen-box)|24|
-|[bag](/docs/definitions/null/bag)|24|
-|[large bag](/docs/definitions/null/large-bag)|24|
-|[gas canister](/docs/definitions/null/gas-canister)|24|
+|thermal bottle|8|
+|barrel|24|
+|wheelbarrow|8|
+|specimen box|24|
+|bag|24|
+|large bag|24|
+|gas canister|24|
 
    
 
     
-Version: pre-3.9.0 Generated on: 2024-12-28T13:30:57.2428854
+Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
 {.small }

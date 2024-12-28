@@ -40,5 +40,5 @@ The Long Range Explorer is an extended range version of the Explorer Rover.
 |[Solid waste](/docs/definitions/resource/solid-waste)|20.0|
 |[Toxic waste](/docs/definitions/resource/toxic-waste)|4.0|
 
-Version: pre-3.9.0 Generated on: 2024-12-28T13:30:57.2428854
+Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
 {.small }

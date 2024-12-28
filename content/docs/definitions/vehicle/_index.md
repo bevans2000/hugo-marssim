@@ -1,10 +1,12 @@
 ---
 title: Vehicle Spec
+description: Types of Vehicles Featured for Mars Surface Operations
 ---
-Types of Vehicles Featured for Mars Surface Operations
 
-Change via XML
 
+
+
+{{< alert color="success" >}}These can be changed via the XML file _vehicles.xml_. See [XML Files](/docs/guide/xml-files/){{< /alert >}}
 
 
 - [Cargo Drone](../vehicle/cargo-drone)
@@ -15,5 +17,5 @@ Change via XML
 - [Long Range Explorer](../vehicle/long-range-explorer)
 - [Transport Rover](../vehicle/transport-rover)
 
-Version: pre-3.9.0 Generated on: 2024-12-28T13:30:57.2428854
+Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
 {.small }

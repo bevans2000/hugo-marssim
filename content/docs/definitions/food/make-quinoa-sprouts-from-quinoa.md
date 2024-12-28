@@ -33,6 +33,6 @@ Rinse the quinoa seeds in a bowl. Wash the quinoa seeds &#10;&#9;&#9;&#9;to remo
 |[Quinoa Sprout](/docs/definitions/resource/quinoa-sprout)|15.0 kg|
 
 
-Version: pre-3.9.0 Generated on: 2024-12-28T13:30:57.2428854
+Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
 {.small }
 

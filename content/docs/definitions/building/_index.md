@@ -1,10 +1,12 @@
 ---
 title: Building Spec
+description: Building Specifications available for bases
 ---
-Building Specifications available for bases
 
-Change via XML
 
+
+
+{{< alert color="success" >}}These can be changed via the XML file _buildings.xml_. See [XML Files](/docs/guide/xml-files/){{< /alert >}}
 
 
 Grouped by Category.
@@ -112,5 +114,5 @@ Grouped by Category.
 - [Loading Dock Garage](../building/loading-dock-garage)
 
 
-Version: pre-3.9.0 Generated on: 2024-12-28T13:30:57.2428854
+Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
 {.small }

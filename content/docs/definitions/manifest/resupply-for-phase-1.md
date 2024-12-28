@@ -129,17 +129,17 @@ hide_summary: true
 
 | Name | Quantity |
 |:-----|-----:|
-|[thermal bottle](/docs/definitions/null/thermal-bottle)|4|
-|[barrel](/docs/definitions/null/barrel)|80|
-|[wheelbarrow](/docs/definitions/null/wheelbarrow)|4|
-|[EVA Suit](/docs/definitions/null/eva-suit)|8|
-|[specimen box](/docs/definitions/null/specimen-box)|80|
-|[bag](/docs/definitions/null/bag)|80|
-|[large bag](/docs/definitions/null/large-bag)|80|
-|[gas canister](/docs/definitions/null/gas-canister)|80|
+|thermal bottle|4|
+|barrel|80|
+|wheelbarrow|4|
+|EVA Suit|8|
+|specimen box|80|
+|bag|80|
+|large bag|80|
+|gas canister|80|
 
    
 
     
-Version: pre-3.9.0 Generated on: 2024-12-28T13:30:57.2428854
+Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
 {.small }

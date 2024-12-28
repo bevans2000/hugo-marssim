@@ -32,6 +32,6 @@ hide_summary: true
 |[solar parabolic mirror](/docs/definitions/part/solar-parabolic-mirror)|1|
 
 
-Version: pre-3.9.0 Generated on: 2024-12-28T13:30:57.2428854
+Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
 {.small }
 

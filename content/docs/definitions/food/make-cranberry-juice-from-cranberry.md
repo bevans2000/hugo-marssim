@@ -36,6 +36,6 @@ The juice is obtained by&#10;&#9;&#9;crushing cranberries in a mill or by hand c
 |[blender](/docs/definitions/part/blender)|1|
 
 
-Version: pre-3.9.0 Generated on: 2024-12-28T13:30:57.2428854
+Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
 {.small }
 

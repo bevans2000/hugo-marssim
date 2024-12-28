@@ -1,10 +1,12 @@
 ---
 title: Settlement Template
+description: Settlement templates that can be used in a Scenario
 ---
-Settlement templates that can be used in a Scenario
 
-Change via XML
 
+
+
+{{< alert color="success" >}}These can be changed via the XML file _settlement_name.xml_. See [XML Files](/docs/guide/xml-files/){{< /alert >}}
 
 
 Grouped by Sponsor.
@@ -85,5 +87,5 @@ Grouped by Sponsor.
 - [Phase 0-AE](../settlement/phase-0-ae)
 
 
-Version: pre-3.9.0 Generated on: 2024-12-28T13:30:57.2428854
+Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
 {.small }

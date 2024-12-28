@@ -34,6 +34,6 @@ hide_summary: true
 |[bisphenol-a](/docs/definitions/resource/bisphenol-a)|22.8 kg|
 
 
-Version: pre-3.9.0 Generated on: 2024-12-28T13:30:57.2428854
+Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
 {.small }
 

@@ -1,10 +1,12 @@
 ---
 title: Food Recipe
+description: Recipe (Food Process) to create Food
 ---
-Recipe (Food Process) to create Food
 
-Change via XML
 
+
+
+{{< alert color="success" >}}These can be changed via the XML file _food_production.xml_. See [XML Files](/docs/guide/xml-files/){{< /alert >}}
 
 
 - [Bake Wheat Bread from Wheat Flour](../food/bake-wheat-bread-from-wheat-flour)
@@ -85,5 +87,5 @@ Change via XML
 - [Produce Fiber Cloth from Cane or Soy Fiber](../food/produce-fiber-cloth-from-cane-or-soy-fiber)
 - [Produce Fiber Cloth from Cane or Soy Fiber Recipe #1](../food/produce-fiber-cloth-from-cane-or-soy-fiber-recipe--1)
 
-Version: pre-3.9.0 Generated on: 2024-12-28T13:30:57.2428854
+Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
 {.small }

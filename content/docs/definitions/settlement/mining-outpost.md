@@ -211,14 +211,14 @@ Base for Mining Outpost for Mars Society
 
 | Name | Quantity |
 |:-----|-----:|
-|[thermal bottle](/docs/definitions/null/thermal-bottle)|8|
-|[barrel](/docs/definitions/null/barrel)|40|
-|[wheelbarrow](/docs/definitions/null/wheelbarrow)|12|
-|[EVA Suit](/docs/definitions/null/eva-suit)|8|
-|[specimen box](/docs/definitions/null/specimen-box)|40|
-|[bag](/docs/definitions/null/bag)|40|
-|[large bag](/docs/definitions/null/large-bag)|40|
-|[gas canister](/docs/definitions/null/gas-canister)|40|
+|thermal bottle|8|
+|barrel|40|
+|wheelbarrow|12|
+|EVA Suit|8|
+|specimen box|40|
+|bag|40|
+|large bag|40|
+|gas canister|40|
 
 ## Vehicles
 
@@ -236,5 +236,5 @@ Base for Mining Outpost for Mars Society
 |--------:|:------|:-----|-------:|
 |Quarterly Delivery|0|[Standard Resupply 1](/docs/definitions/manifest/standard-resupply-1)|150|
     
-Version: pre-3.9.0 Generated on: 2024-12-28T13:30:57.2428854
+Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
 {.small }

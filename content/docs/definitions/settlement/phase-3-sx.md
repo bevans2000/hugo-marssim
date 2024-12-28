@@ -211,14 +211,14 @@ Phase 3 for SpaceX
 
 | Name | Quantity |
 |:-----|-----:|
-|[thermal bottle](/docs/definitions/null/thermal-bottle)|18|
-|[barrel](/docs/definitions/null/barrel)|80|
-|[wheelbarrow](/docs/definitions/null/wheelbarrow)|18|
-|[EVA Suit](/docs/definitions/null/eva-suit)|24|
-|[specimen box](/docs/definitions/null/specimen-box)|80|
-|[bag](/docs/definitions/null/bag)|80|
-|[large bag](/docs/definitions/null/large-bag)|80|
-|[gas canister](/docs/definitions/null/gas-canister)|80|
+|thermal bottle|18|
+|barrel|80|
+|wheelbarrow|18|
+|EVA Suit|24|
+|specimen box|80|
+|bag|80|
+|large bag|80|
+|gas canister|80|
 
 ## Vehicles
 
@@ -239,5 +239,5 @@ Phase 3 for SpaceX
 |BiMonthly Delivery|30|[Standard Resupply 1](/docs/definitions/manifest/standard-resupply-1)|60|
 |Phase 3 Delivery|668|[Resupply for Phase 3](/docs/definitions/manifest/resupply-for-phase-3)|-1|
     
-Version: pre-3.9.0 Generated on: 2024-12-28T13:30:57.2428854
+Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
 {.small }

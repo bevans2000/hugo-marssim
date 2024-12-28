@@ -34,6 +34,6 @@ Fe&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; + 3CO -&gt; 2Fe + 3CO&lt;sub
 |[iron powder](/docs/definitions/resource/iron-powder)|34.9 kg|
 
 
-Version: pre-3.9.0 Generated on: 2024-12-28T13:30:57.2428854
+Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
 {.small }
 

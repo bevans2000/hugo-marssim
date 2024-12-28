@@ -21,6 +21,6 @@ Assume each methanol fuel cell can generate 200W&#10;&#9;&#9;continuous power.&#
 - [Make methanol fuel cell stack](/docs/definitions/process/make-methanol-fuel-cell-stack)
 
 
-Version: pre-3.9.0 Generated on: 2024-12-28T13:30:57.2428854
+Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
 {.small }
 

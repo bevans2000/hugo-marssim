@@ -174,14 +174,14 @@ Phase 1 base for Brazil
 
 | Name | Quantity |
 |:-----|-----:|
-|[thermal bottle](/docs/definitions/null/thermal-bottle)|8|
-|[barrel](/docs/definitions/null/barrel)|40|
-|[wheelbarrow](/docs/definitions/null/wheelbarrow)|12|
-|[EVA Suit](/docs/definitions/null/eva-suit)|8|
-|[specimen box](/docs/definitions/null/specimen-box)|40|
-|[bag](/docs/definitions/null/bag)|40|
-|[large bag](/docs/definitions/null/large-bag)|40|
-|[gas canister](/docs/definitions/null/gas-canister)|40|
+|thermal bottle|8|
+|barrel|40|
+|wheelbarrow|12|
+|EVA Suit|8|
+|specimen box|40|
+|bag|40|
+|large bag|40|
+|gas canister|40|
 
 ## Vehicles
 
@@ -200,5 +200,5 @@ Phase 1 base for Brazil
 |Food Delivery|7|[Food Resupply 1](/docs/definitions/manifest/food-resupply-1)|80|
 |Phase 1 Delivery|668|[Resupply for Phase 1](/docs/definitions/manifest/resupply-for-phase-1)|-1|
     
-Version: pre-3.9.0 Generated on: 2024-12-28T13:30:57.2428854
+Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
 {.small }

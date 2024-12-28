@@ -14,7 +14,7 @@ Requires only JRE 21 for running mars-sim
 
 ## Applications
 
-The instllation consists of 2 application:
+The installation consists of 2 application:
 
 - A UI application based on Java Swing
 - A headless server versino that can be accessed remotely.

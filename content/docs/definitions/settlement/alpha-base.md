@@ -245,14 +245,14 @@ Large Base
 
 | Name | Quantity |
 |:-----|-----:|
-|[thermal bottle](/docs/definitions/null/thermal-bottle)|24|
-|[barrel](/docs/definitions/null/barrel)|120|
-|[wheelbarrow](/docs/definitions/null/wheelbarrow)|24|
-|[EVA Suit](/docs/definitions/null/eva-suit)|36|
-|[specimen box](/docs/definitions/null/specimen-box)|120|
-|[bag](/docs/definitions/null/bag)|120|
-|[large bag](/docs/definitions/null/large-bag)|120|
-|[gas canister](/docs/definitions/null/gas-canister)|120|
+|thermal bottle|24|
+|barrel|120|
+|wheelbarrow|24|
+|EVA Suit|36|
+|specimen box|120|
+|bag|120|
+|large bag|120|
+|gas canister|120|
 
 ## Vehicles
 
@@ -282,5 +282,5 @@ Large Base
 |Bi-Monthly Delivery|1|[Standard Resupply 1](/docs/definitions/manifest/standard-resupply-1)|62|
 |Scale up Delivery|300|[Resupply for Phase 3](/docs/definitions/manifest/resupply-for-phase-3)|-1|
     
-Version: pre-3.9.0 Generated on: 2024-12-28T13:30:57.2428854
+Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
 {.small }

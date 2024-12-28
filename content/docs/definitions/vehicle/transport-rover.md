@@ -38,5 +38,5 @@ The Transport Rover is for transporting people from one settlement to another&#1
 |[Solid waste](/docs/definitions/resource/solid-waste)|80.0|
 |[Toxic waste](/docs/definitions/resource/toxic-waste)|16.0|
 
-Version: pre-3.9.0 Generated on: 2024-12-28T13:30:57.2428854
+Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
 {.small }

@@ -1,10 +1,12 @@
 ---
 title: Treatment
+description: Treatments applied to cure Complaints
 ---
-Treatments applied to cure Complaints
 
-Change via XML
 
+
+
+{{< alert color="success" >}}These can be changed via the XML file _medical.xml_. See [XML Files](/docs/guide/xml-files/){{< /alert >}}
 
 
 Grouped by Medical Tech Level.
@@ -31,5 +33,5 @@ Grouped by Medical Tech Level.
 - [Skin Graft](../treatment/skin-graft)
 
 
-Version: pre-3.9.0 Generated on: 2024-12-28T13:30:57.2428854
+Version: pre-3.9.0 Generated on: 2024-12-28T22:56:23.2942481
 {.small }
