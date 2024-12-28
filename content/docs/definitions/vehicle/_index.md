@@ -1,0 +1,19 @@
+---
+title: Vehicle Spec
+---
+Types of Vehicles Featured for Mars Surface Operations
+
+Change via XML
+
+
+
+- [Cargo Drone](../vehicle/cargo-drone)
+- [Cargo Rover](../vehicle/cargo-rover)
+- [Delivery Drone](../vehicle/delivery-drone)
+- [Explorer Rover](../vehicle/explorer-rover)
+- [Light Utility Vehicle](../vehicle/light-utility-vehicle)
+- [Long Range Explorer](../vehicle/long-range-explorer)
+- [Transport Rover](../vehicle/transport-rover)
+
+Version: pre-3.9.0 Generated on: 2024-12-28T13:30:57.2428854
+{.small }
